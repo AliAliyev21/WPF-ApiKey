@@ -1,0 +1,23 @@
+C:\Users\Eliye_qx80\source\repos\WpfAppOMDb Api\WpfAppOMDb Api\bin\Debug\net6.0-windows\WpfAppOMDb Api.exe
+C:\Users\Eliye_qx80\source\repos\WpfAppOMDb Api\WpfAppOMDb Api\bin\Debug\net6.0-windows\WpfAppOMDb Api.deps.json
+C:\Users\Eliye_qx80\source\repos\WpfAppOMDb Api\WpfAppOMDb Api\bin\Debug\net6.0-windows\WpfAppOMDb Api.runtimeconfig.json
+C:\Users\Eliye_qx80\source\repos\WpfAppOMDb Api\WpfAppOMDb Api\bin\Debug\net6.0-windows\WpfAppOMDb Api.dll
+C:\Users\Eliye_qx80\source\repos\WpfAppOMDb Api\WpfAppOMDb Api\bin\Debug\net6.0-windows\WpfAppOMDb Api.pdb
+C:\Users\Eliye_qx80\source\repos\WpfAppOMDb Api\WpfAppOMDb Api\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Eliye_qx80\source\repos\WpfAppOMDb Api\WpfAppOMDb Api\obj\Debug\net6.0-windows\WpfAppOMDb Api.csproj.AssemblyReference.cache
+C:\Users\Eliye_qx80\source\repos\WpfAppOMDb Api\WpfAppOMDb Api\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Eliye_qx80\source\repos\WpfAppOMDb Api\WpfAppOMDb Api\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Eliye_qx80\source\repos\WpfAppOMDb Api\WpfAppOMDb Api\obj\Debug\net6.0-windows\WpfAppOMDb Api_MarkupCompile.cache
+C:\Users\Eliye_qx80\source\repos\WpfAppOMDb Api\WpfAppOMDb Api\obj\Debug\net6.0-windows\WpfAppOMDb Api_MarkupCompile.lref
+C:\Users\Eliye_qx80\source\repos\WpfAppOMDb Api\WpfAppOMDb Api\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Eliye_qx80\source\repos\WpfAppOMDb Api\WpfAppOMDb Api\obj\Debug\net6.0-windows\WpfAppOMDb Api.g.resources
+C:\Users\Eliye_qx80\source\repos\WpfAppOMDb Api\WpfAppOMDb Api\obj\Debug\net6.0-windows\WpfAppOMDb Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eliye_qx80\source\repos\WpfAppOMDb Api\WpfAppOMDb Api\obj\Debug\net6.0-windows\WpfAppOMDb Api.AssemblyInfoInputs.cache
+C:\Users\Eliye_qx80\source\repos\WpfAppOMDb Api\WpfAppOMDb Api\obj\Debug\net6.0-windows\WpfAppOMDb Api.AssemblyInfo.cs
+C:\Users\Eliye_qx80\source\repos\WpfAppOMDb Api\WpfAppOMDb Api\obj\Debug\net6.0-windows\WpfAppOMDb Api.csproj.CoreCompileInputs.cache
+C:\Users\Eliye_qx80\source\repos\WpfAppOMDb Api\WpfAppOMDb Api\obj\Debug\net6.0-windows\WpfAppOMDb Api.csproj.CopyComplete
+C:\Users\Eliye_qx80\source\repos\WpfAppOMDb Api\WpfAppOMDb Api\obj\Debug\net6.0-windows\WpfAppOMDb Api.dll
+C:\Users\Eliye_qx80\source\repos\WpfAppOMDb Api\WpfAppOMDb Api\obj\Debug\net6.0-windows\refint\WpfAppOMDb Api.dll
+C:\Users\Eliye_qx80\source\repos\WpfAppOMDb Api\WpfAppOMDb Api\obj\Debug\net6.0-windows\WpfAppOMDb Api.pdb
+C:\Users\Eliye_qx80\source\repos\WpfAppOMDb Api\WpfAppOMDb Api\obj\Debug\net6.0-windows\WpfAppOMDb Api.genruntimeconfig.cache
+C:\Users\Eliye_qx80\source\repos\WpfAppOMDb Api\WpfAppOMDb Api\obj\Debug\net6.0-windows\ref\WpfAppOMDb Api.dll
